@@ -27,6 +27,8 @@
   <li>Dipankar Maity, University of North Carolina at Charlotte</li>
 </ul>
 
+<hr>
+
 <h2 style="color:rgb(0, 125, 125);">Program: Coming Soon.</h2>
 
 <hr>
@@ -38,3 +40,5 @@
   <li>Alexander Soderlund, Air Force Research Laboratory, RV</li>
   <li>Piyush Mehta, West Virginia University</li>
 </ul>
+
+<hr>
