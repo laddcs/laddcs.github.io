@@ -6,17 +6,12 @@ development, national security, or our many scientific endeavors. During the pas
 both predictive and forensic analytical capabilities that can convert data into certifiably accurate models for decision and control in orbit. Speakers will span the government, national labs, and academia, presenting challenges, opportunities, and solutions for this multifaceted domain. The following list provides broad areas of interest for technical content to be presented in the proposed workshop:
 
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Sustainable utilization of the space domain</li>
+  <li>Autonomous decision making under duress</li>
+  <li>Learning orbital mechanics from sparse and/or unreliable data</li>
+  <li>Communication and coordination</li>
+  <li>Estimation and control at the frontier: VLEO to Cislunar</li>
+  <li>Computer vision, machine learning and AI in space</li>
+  <li>Advances in sensing and data fusion</li>
+  <li>Impact of space assets on life on Earth</li>
 </ul>
-
-• Sustainable utilization of the space domain
-• Autonomous decision making under duress
-• Learning orbital mechanics from sparse and/or unreliable data
-• Communication and coordination
-• Estimation and control at the frontier: VLEO to Cislunar
-• Computer vision, machine learning and AI in space
-• Advances in sensing and data fusion
-• Impact of space assets on life on Earth
-
