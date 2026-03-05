@@ -19,7 +19,7 @@
 <h2 style="color:rgb(0, 125, 125);">Confirmed Speakers</h2>
 
 <ul>
-  <li>Stacie Williams, Chief Scientist of the United States Space Force</li>
+  <li>Stacie Williams, Chief Science Officer, United States Space Force</li>
   <li>Carolin Frueh, Purdue University</li>
   <li>Piyush Mehta, West Virginia University</li>
   <li>Sean Phillips, Air Force Research Laboratory, RV</li>
