@@ -23,7 +23,7 @@
   <li>Carolin Frueh, Purdue University</li>
   <li>Piyush Mehta, West Virginia University</li>
   <li>Sean Phillips, Air Force Research Laboratory, RV</li>
-  <li>Renato Zanetti, University of Texas at Austin</li>
+  <li>Renato Zanetti, University of Texas Austin</li>
   <li>Islam Hussein, Trusted Space Inc.</li>
   <li>Robyn Woollands, University of Illinois, Urbana-Champaign</li>
   <li>Kenshiro Oguri, Purdue University</li>
