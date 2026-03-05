@@ -25,7 +25,7 @@
   <li>Sean Phillips, Air Force Research Laboratory, RV</li>
   <li>Renato Zanetti, University of Texas at Austin</li>
   <li>Islam Hussein, Trusted Space Inc.</li>
-  <li>Robyn Wollands, University of Illinois, Urbana-Champaign</li>
+  <li>Robyn Woollands, University of Illinois, Urbana-Champaign</li>
   <li>Kenshiro Oguri, Purdue University</li>
   <li>Dipankar Maity, University of North Carolina at Charlotte</li>
 </ul>
