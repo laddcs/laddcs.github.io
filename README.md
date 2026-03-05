@@ -19,11 +19,14 @@
 <h2 style="color:rgb(0, 125, 125);">Confirmed Speakers</h2>
 
 <ul>
+  <li>Stacie Williams, Chief Scientist of the United States Space Force University</li>
   <li>Carolin Frueh, Purdue University</li>
   <li>Piyush Mehta, West Virginia University</li>
-  <li>Alexander Soderlund, Air Force Research Laboratory, RV</li>
+  <li>Sean Phillips, Air Force Research Laboratory, RV</li>
   <li>Renato Zanetti, University of Texas at Austin</li>
   <li>Islam Hussein, Trusted Space Inc.</li>
+  <li>Robyn Wollands, University of Illinois, Urbana-Champaign</li>
+  <li>Kenshiro Oguri, Purdue University</li>
   <li>Dipankar Maity, University of North Carolina at Charlotte</li>
 </ul>
 
