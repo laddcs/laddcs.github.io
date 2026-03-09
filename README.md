@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);">Program: Coming Soon.</h2>
+<h2 style="color:rgb(0, 125, 125);">Program </h2>
 
 <ul>
   <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
