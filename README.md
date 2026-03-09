@@ -34,6 +34,14 @@
 
 <h2 style="color:rgb(0, 125, 125);">Program: Coming Soon.</h2>
 
+<ul>
+  <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
+  <li> 9:00 - 12:00. Session 1. Sensors and Data. Speakers: Frueh, Zanetti, Mehta, Hussein </li>
+  <li> 12:00 - 1:00. Lunch and Open Mic </li>
+  <li> 1:30 - 4:00. Session 2. Estimation and Control, ML/AI for Space. Speakers: Phillips, Woollands, Oguri, Maity </li>
+  <li> 4:00 - 5:00. Panel: What's next for space resiliency? </li>
+</ul>
+
 <hr>
 
 <h2 style="color:rgb(0, 125, 125);">Organizing Committee</h2>
