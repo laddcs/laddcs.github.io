@@ -42,6 +42,8 @@
   <li> 4:00 - 5:00. Panel: What's next for space resiliency? </li>
 </ul>
 
+Detailed program is available here: laddcs.github.io/ACC2026W_Program.md
+
 <hr>
 
 <h2 style="color:rgb(0, 125, 125);">Organizing Committee</h2>
