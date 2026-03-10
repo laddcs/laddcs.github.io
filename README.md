@@ -42,7 +42,8 @@
   <li> 4:00 - 5:00. Panel: What's next for space resiliency? </li>
 </ul>
 
-Detailed program is available here: laddcs.github.io/ACC2026W_Program.md
+<p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
+ 
 
 <hr>
 
