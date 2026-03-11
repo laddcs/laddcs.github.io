@@ -69,6 +69,16 @@
   <strong>Abstract:</strong> Coming Soon.
 </p>
 
+<hr>
+
+<h2 style="color:rgb(0, 125, 125);">Panel Discussion. 4:30 - 5:15 PM.</h2> 
+<p> Details coming soon. </p>
+
+<hr>
+
+
+<h2 style="color:rgb(0, 125, 125);">Poster Session and Closeout. 5:15 - 6 PM.</h2> 
+<p> Details coming soon. </p>
 
 
 <figure>
