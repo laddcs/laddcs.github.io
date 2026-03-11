@@ -18,7 +18,7 @@
 </p>
 
 <p> <a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/zanetti"><b>Dr. Renato Zanetti</b></a>, Associate Professor. The University of Texas at Austin. <br>
-<strong>Title:</strong> Advances in Ensemble Gaussian Mixture Filtering for Space Object Tracking <br>
+<strong>Title:</strong> <span style="color: blue;">Advances in Ensemble Gaussian Mixture Filtering for Space Object Tracking </span> <br>
 <strong>Abstract:</strong> This presentation explores recent advances in orbital mechanics estimation under sparse and unreliable data conditions, with a focus on nonlinear filtering and data fusion techniques. We introduce enhancements to the Ensemble Gaussian Mixture Filter (EnGMF), a hybrid approach combining particle and Gaussian mixture representations, tailored for systems with strong nonlinear dynamics and nonlinear measurements. A novel deterministic sampling method based on Projected Cramér–von Mises Distance is presented, offering improved accuracy and computational efficiency in high-dimensional filtering problems. Additionally, we discuss kernel-based modifications to the EnGMF for orbit determination in low Earth orbit and Cislunar environments, incorporating bi-fidelity propagation and adaptive particle selection to maintain estimation consistency with limited observations. Finally, we examine the role of posterior-based weight updates in Gaussian mixture filters, demonstrating their superiority over traditional prior-based methods in both single- and multi-target tracking scenarios. These contributions collectively advance the state of the art in space object tracking and estimation under challenging sensing conditions.
 </p>
 
