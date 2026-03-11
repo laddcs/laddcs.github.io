@@ -36,11 +36,20 @@
 
 <ul>
   <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
-  <li> 9:00 - 12:00. Session 1. Sensors and Data. Speakers: Frueh, Zanetti, Mehta, Hussein </li>
-  <li> 12:00 - 1:00. Lunch and Open Mic </li>
+  <li> 9:00 - 11:30. Session 1. Sensors and Data. Speakers: Frueh, Zanetti, Mehta, Hussein </li>
+  <li> 11:30 - 1:00. Lunch and Open Mic </li>
   <li> 1:30 - 4:00. Session 2. Estimation and Control, ML/AI for Space. Speakers: Phillips, Woollands, Oguri, Maity </li>
   <li> 4:00 - 5:00. Panel: What's next for space resiliency? </li>
 </ul>
+
+<br>
+
+<figure>
+  <img src="layout.png" alt="Workshop Layout" style="width:100%">
+  <figcaption>Workshop Outline</figcaption>
+</figure>
+
+<br> <br>
 
 <p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
  
