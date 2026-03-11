@@ -51,6 +51,26 @@
   <strong>Abstract:</strong> Coming Soon.
 </p>
 
+<p> <a href="https://aerospace.illinois.edu/directory/profile/rmw"><b>Dr. Robyn Woollands</b></a>,
+  Assistant Professor. University of Illinois, Urbana-Champaign. <br>
+  <strong>Title:</strong> Coming Soon. <br>
+  <strong>Abstract:</strong> Coming Soon.
+</p>
+
+<p> <a href="https://dipankarmaity.github.io"><b>Dr. Dipankar Maity</b></a>,
+  Assistant Professor. University of North Carolina at Charlotte. <br>
+  <strong>Title:</strong> Learning and Control under Communication Constraints: Toward Resilient Autonomy in Space Systems <br>
+  <strong>Abstract:</strong> Modern autonomous systems---from very low Earth orbit (VLEO) satellites to multi-agent spacecraft---depend critically on timely, reliable, and high-quality information exchange. Yet, space environments inherently impose severe communication constraints, including limited bandwidth, latency, packet loss, and quantization, which degrade both learning and control performance. This talk will present a unified framework for communication-aware control and learning, aimed at ensuring resilient operation of autonomous space systems under such adverse conditions.
+</p>
+
+<p> <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=255154"><b>Dr. Kenshiro Oguri</b></a>,
+  Assistant Professor. Purdue University. <br>
+  <strong>Title:</strong> Coming Soon. <br>
+  <strong>Abstract:</strong> Coming Soon.
+</p>
+
+
+
 <figure>
   <img src="layout.png" alt="Workshop Layout" style="width:100%">
   <figcaption>Workshop Timeline</figcaption>
