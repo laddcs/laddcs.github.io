@@ -3,7 +3,7 @@
 <hr> 
 <h2 style="color:rgb(0, 125, 125);">Keynote Address. 8 - 9 AM.</h2> 
 
-<p> Dr. Stacie Williams. Chief Science Officer, United States Space Force. <br> 
+<p> <a href="https://www.spaceforce.mil/DesktopModules/ArticleCS/Print.aspx?PortalId=2&ModuleId=924&Article=3957892"><b>Dr. Stacie Williams</b></a>, Chief Science Officer. United States Space Force. <br> 
 <strong>Overview:</strong> Science and technology roadmap of the US Space Force. 
 </p>
 
