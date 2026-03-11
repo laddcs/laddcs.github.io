@@ -59,7 +59,7 @@
 
 <p> <a href="https://dipankarmaity.github.io"><b>Dr. Dipankar Maity</b></a>,
   Assistant Professor. University of North Carolina at Charlotte. <br>
-  <strong>Title:</strong> Learning and Control under Communication Constraints: Toward Resilient Autonomy in Space Systems <br>
+  <strong>Title:</strong><span style="color: blue;"> Learning and Control under Communication Constraints: Toward Resilient Autonomy in Space Systems</span> <br>
   <strong>Abstract:</strong> Modern autonomous systems---from very low Earth orbit (VLEO) satellites to multi-agent spacecraft---depend critically on timely, reliable, and high-quality information exchange. Yet, space environments inherently impose severe communication constraints, including limited bandwidth, latency, packet loss, and quantization, which degrade both learning and control performance. This talk will present a unified framework for communication-aware control and learning, aimed at ensuring resilient operation of autonomous space systems under such adverse conditions.
 </p>
 
