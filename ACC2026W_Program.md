@@ -27,6 +27,12 @@
   <strong>Abstract:</strong> Operations in very low Earth orbit (VLEO) and low Earth orbit (LEO) are increasingly sensitive to space-weather–driven variability in the ionosphere–thermosphere system, which can produce rapid and poorly predicted changes in atmospheric density and drag. This work proposes a physics- and data-driven space weather paradigm that integrates first-principles modeling, machine learning, and data assimilation to produce uncertainty-aware forecasts of the near-Earth space environment. The framework translates thermospheric and space weather uncertainties into actionable orbital risk metrics for satellite operators. By coupling physical insight with data-driven dynamical system models, the approach enables resilient orbit prediction, maneuver planning, and autonomous operations in the increasingly congested VLEO and LEO regimes under both nominal and storm conditions.
 </p>
 
+<p> <a href="https://www.linkedin.com/in/islam-hussein-04359b24/"><b>Dr. Islam Hussein</b></a>,
+  Vice President of R&D. Trusted Space, Inc. <br>
+  <strong>Title:</strong> Coming Soon. <br>
+  <strong>Abstract:</strong> Coming Soon.
+</p>
+
 
 
 
