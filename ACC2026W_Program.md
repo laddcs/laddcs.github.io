@@ -23,9 +23,13 @@
 </p>
 
 <p> <a href="https://piyushmehta.faculty.wvu.edu/home"><b>Dr. Piyush M. Mehta</b></a>,  Associate Professor and Director of The Center for Innovation in Space Exploration. West Virginia University. <br>
-  <strong>Title:</strong> Physics- and Data-Driven Space Weather Paradigm for Resilient Operations in (V)LEO. <br>
+  <strong>Title:</strong> <span style="color: blue;"> Physics- and Data-Driven Space Weather Paradigm for Resilient Operations in (V)LEO. </span> <br>
   <strong>Abstract:</strong> Operations in very low Earth orbit (VLEO) and low Earth orbit (LEO) are increasingly sensitive to space-weather–driven variability in the ionosphere–thermosphere system, which can produce rapid and poorly predicted changes in atmospheric density and drag. This work proposes a physics- and data-driven space weather paradigm that integrates first-principles modeling, machine learning, and data assimilation to produce uncertainty-aware forecasts of the near-Earth space environment. The framework translates thermospheric and space weather uncertainties into actionable orbital risk metrics for satellite operators. By coupling physical insight with data-driven dynamical system models, the approach enables resilient orbit prediction, maneuver planning, and autonomous operations in the increasingly congested VLEO and LEO regimes under both nominal and storm conditions.
 </p>
+
+
+
+
 <figure>
   <img src="layout.png" alt="Workshop Layout" style="width:100%">
   <figcaption>Workshop Timeline</figcaption>
