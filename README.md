@@ -53,7 +53,6 @@
 
 <p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
  
-
 <hr>
 
 <h2 style="color:rgb(0, 125, 125);">Organizing Committee</h2>
