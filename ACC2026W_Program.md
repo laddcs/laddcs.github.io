@@ -33,8 +33,23 @@
   <strong>Abstract:</strong> Coming Soon.
 </p>
 
+<hr>
 
+<h2 style="color:rgb(0, 125, 125);">Lunch Break & Open Mic. 11:30 AM - 1 PM.</h2> 
 
+<hr>
+
+<h2 style="color:rgb(0, 125, 125);">Technical Keynote Lecture. 1 - 2 PM.</h2> 
+<p> Details coming soon. </p>
+
+<hr>
+  
+<h2 style="color:rgb(0, 125, 125);">Afternoon Session: Estimation and Control, ML/AI for Space. 2 - 4:30 PM.</h2>
+
+<p> <a href="https://www.linkedin.com/in/sean-a-phillips/"><b>Dr. Sean Phillips</b></a>, Technology Advisor at the Air Force Research Laboratory. <br> 
+ <strong>Title:</strong> Coming Soon. <br>
+  <strong>Abstract:</strong> Coming Soon.
+</p>
 
 <figure>
   <img src="layout.png" alt="Workshop Layout" style="width:100%">
