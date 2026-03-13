@@ -21,7 +21,6 @@
 <ul>
   <li>Stacie Williams, Chief Science Officer, United States Space Force</li>
   <li>Carolin Frueh, Purdue University</li>
-  <li>Piyush Mehta, West Virginia University</li>
   <li>Sean Phillips, Air Force Research Laboratory, RV</li>
   <li>Renato Zanetti, University of Texas Austin</li>
   <li>Islam Hussein, Trusted Space Inc.</li>
@@ -60,8 +59,8 @@
 <ul>
   <li>Mrinal Kumar, Professor, Mechanical & Aerospace Engineering, The Ohio State University</li>
   <li>Suman Chakravorty, Professor, Aerospace Engineering, Texas A&M University</li>
-  <li>Alexander Soderlund, Air Force Research Laboratory, RV</li>
   <li>Piyush Mehta, West Virginia University</li>
+  <li>Alexander Soderlund, Air Force Research Laboratory, RV</li>
 </ul>
 
 <hr>
