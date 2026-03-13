@@ -66,10 +66,9 @@
 </p>
 
 
-<p> <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=255154" target="_blank"><b>Dr. Kenshiro Oguri</b></a>,
-  Assistant Professor. Purdue University. <br>
-  <strong>Title:</strong> <strong>Title:</strong> <span style="color: blue;"> Data-driven Nonlinear Estimation and Control with Space Applications. </span> <br>
-  <strong>Abstract:</strong> In this talk, I will present our recent results on data-driven methods and their applications to spacecraft autonomy and space domain awareness (SDA). The developed methods leverage tools from statistics, non-Gaussian inference, optimal control, and convex/non-convex optimization for nonlinear estimation and control relevant to space operations. Even though the dynamical environment in space is often well-characterized by orbital mechanics, the analysis, forecast, and control of orbit uncertainty are challenging due to the nonlinear gravity and its chaotic nature in multi-body settings (e.g., cislunar space). The challenge is further compounded when we do not have direct access to, but need to infer, the intension and capability of potentially maneuvering space objects. The presented methods address these challenges by taking the best of two worlds: analytical expression of available models and scalability of data-driven methods.
+<p> <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=255154" target="_blank"><b>Dr. Kenshiro Oguri</b></a>, Assistant Professor. Purdue University. <br>
+<strong>Title:</strong> <span style="color: blue;"> Data-driven Nonlinear Estimation and Control with Space Applications. </span> <br>
+<strong>Abstract:</strong> In this talk, I will present our recent results on data-driven methods and their applications to spacecraft autonomy and space domain awareness (SDA). The developed methods leverage tools from statistics, non-Gaussian inference, optimal control, and convex/non-convex optimization for nonlinear estimation and control relevant to space operations. Even though the dynamical environment in space is often well-characterized by orbital mechanics, the analysis, forecast, and control of orbit uncertainty are challenging due to the nonlinear gravity and its chaotic nature in multi-body settings (e.g., cislunar space). The challenge is further compounded when we do not have direct access to, but need to infer, the intension and capability of potentially maneuvering space objects. The presented methods address these challenges by taking the best of two worlds: analytical expression of available models and scalability of data-driven methods.
 </p>
 
 <hr>
