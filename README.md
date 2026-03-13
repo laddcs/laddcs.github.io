@@ -32,14 +32,16 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);">Program </h2>
+<h2 style="color:rgb(0, 125, 125);"> <a href="https://laddcs.github.io/ACC2026W_Program">Program</a></h2>
 
 <ul>
   <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
   <li> 9:00 - 11:30. Session 1. Sensors and Data. Speakers: Frueh, Zanetti, Phillips, Hussein </li>
   <li> 11:30 - 1:00. Lunch and Open Mic </li>
-  <li> 1:30 - 4:00. Session 2. Estimation and Control, ML/AI for Space. Speakers:  Woollands, Oguri, Maity, Nakka </li>
-  <li> 4:00 - 5:00. Panel: What's next for space resiliency? </li>
+  <li> 1:00 - 2:00. Technical Keynote - Speaker TBD. </li>
+  <li> 2:00 - 4:30. Session 2. Estimation and Control, ML/AI for Space. Speakers:  Woollands, Oguri, Maity, Nakka </li>
+  <li> 4:30 - 5:15. Panel: What's next for space resiliency? </li>
+  <li> 5:15 - 6:00. Poster Session. </li>
 </ul>
 
 <br>
