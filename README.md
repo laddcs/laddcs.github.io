@@ -46,14 +46,18 @@
 
 <br>
 
+<p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
+
+<br>
+
 <figure>
   <img src="layout.png" alt="Workshop Layout" style="width:100%">
   <figcaption>Workshop Outline</figcaption>
 </figure>
 
-<br> <br>
+<br>
 
-<p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
+
  
 <hr>
 
