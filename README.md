@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);"> <a href="https://laddcs.github.io/ACC2026W_Program">Program</a></h2>
+<h2 style="color:rgb(0, 125, 125);"> <a href="https://laddcs.github.io/ACC2026W_Program" target="_blank">Program</a></h2>
 
 <ul>
   <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
@@ -46,7 +46,7 @@
 
 <br>
 
-<p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program">Workshop Program</a>.</p>
+<p>Detailed program is available here: <a href="https://laddcs.github.io/ACC2026W_Program" target="_blank">Workshop Program</a>.</p>
 
 <br>
 
