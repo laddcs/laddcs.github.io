@@ -13,8 +13,8 @@
 
 <p> <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=111420" target="_blank"><b>Dr. Carolin E. Frueh</b></a>,
   Harold DeGroff Associate Professor of Aeronautics and Astronautics. Purdue University. <br>
-  <strong>Title:</strong> Coming Soon. <br>
-  <strong>Abstract:</strong> Coming Soon.
+  <strong>Title:</strong> <span style="color: blue;">Autonomous Collision Avoidance Decisions </span> <br>
+  <strong>Abstract:</strong> Collision avoidance decisions, the decision of a manouver is performed in case of a potential conjunction, is crucial for the sustainable and safe use of space and spacecraft resilliancy. In this paper, we show that different organizations and entities reach vastly different decisions for the exact same conjunctions. In our approach we use a mixture of classical Dempster-Shafter decision making in combination with machine learning based methods. The data sets used a real data sets from two different space entities and simulated data which is able to reproduce all aspects of the real data. 
 </p>
 
 <p> <a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/zanetti" target="_blank"><b>Dr. Renato Zanetti</b></a>, Associate Professor. The University of Texas at Austin. <br>
