@@ -23,7 +23,7 @@
 </p>
 
 <p> <a href="https://www.linkedin.com/in/sean-a-phillips/" target="_blank"><b>Dr. Sean Phillips</b></a>, Technology Advisor at the Air Force Research Laboratory. <br> 
- <strong>Title:</strong> Coming Soon. <br>
+ <strong>Title:</strong> Overcoming Data Sparsity in a Data Rich World <br>
   <strong>Abstract:</strong> Coming Soon.
 </p>
 
@@ -41,7 +41,9 @@
 <hr>
 
 <h2 style="color:rgb(0, 125, 125);">Technical Keynote Lecture. 1 - 2 PM.</h2> 
-<p> Details coming soon. </p>
+<p> <a href="https://engineering.tamu.edu/aerospace/profiles/DDavis.html" target="_blank"><b>Dr. Diane Davis</b></a>, Principal Research Engineer. Texas A&M Universtiy. <br> 
+<strong>Title and Abstract:</strong> Coming soon. 
+</p>
 
 <hr>
   
