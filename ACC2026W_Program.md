@@ -23,7 +23,7 @@
 </p>
 
 <p> <a href="https://www.linkedin.com/in/sean-a-phillips/" target="_blank"><b>Dr. Sean Phillips</b></a>, Technology Advisor at the Air Force Research Laboratory. <br> 
- <strong>Title:</strong> Overcoming Data Sparsity in a Data Rich World <br>
+ <strong>Title:</strong> <span style="color: blue;"> Overcoming Data Sparsity in a Data Rich World </span> <br>
   <strong>Abstract:</strong> Coming Soon.
 </p>
 
