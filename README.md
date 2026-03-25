@@ -20,6 +20,7 @@
 
 <ul>
   <li>Stacie Williams, Chief Science Officer, United States Space Force</li>
+  <li>Diane Davis, Texas A&M University</li>
   <li>Carolin Frueh, Purdue University</li>
   <li>Sean Phillips, Air Force Research Laboratory, RV</li>
   <li>Renato Zanetti, University of Texas Austin</li>
