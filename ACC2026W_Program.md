@@ -42,7 +42,8 @@
 
 <h2 style="color:rgb(0, 125, 125);">Technical Keynote Lecture. 1 - 2 PM.</h2> 
 <p> <a href="https://engineering.tamu.edu/aerospace/profiles/DDavis.html" target="_blank"><b>Dr. Diane Davis</b></a>, Principal Research Engineer. Texas A&M Universtiy. <br> 
-<strong>Title and Abstract:</strong> Coming soon. 
+ <strong>Title:</strong> <span style="color: blue;"> Avoiding Cislunar Debris: The Dynamics of Jettisons Between the Earth and the Moon </span> <br>
+  <strong>Abstract:</strong> With the peaceful international exploration of cislunar space formalized in the Artemis Accords, increasing numbers of crewed and robotic spacecraft will be delivered beyond Earth orbit. Throughout the mission lifetime, it is critical to design safe paths for spacecraft components to avoid littering cislunar space with persistent debris that could threaten active vehicles, future missions, sensitive regions on the lunar surface, or the Earth. For example, launch vehicle upper stages may be disposed to heliocentric space; it may be desirable to jettison cubesats, docking covers or adapters, or other payloads during transits between the Earth and the Moon; and end-of-life plans for spacecraft that do not intend to return to Earth must be determined. The dynamical environment in cislunar space is significantly impacted by the simultaneous and complex gravitational influence of the Sun, Earth, and Moon, and designing safe disposal trajectories is nontrivial. This presentation focuses on the energy and epoch dependence of disposal trajectories during different phases along an Earth-Moon-Earth transit. Then, strategies are developed for maneuver designs that enable direct escape to heliocentric space and achieve long-term evasion of Earth for at least 100 years.
 </p>
 
 <hr>
