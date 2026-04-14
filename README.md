@@ -58,8 +58,8 @@
 
 <br>
 
-<h2 style="color:rgb(0, 125, 125);">Poster Session:</h2> 
-<p>Please use this form to apply for a lightning talk and poster: <a href="https://forms.gle/B5u8L5VXt44RzPye7" target="_blank">(Google Form)</a>.</p>
+<h2 style="color:rgb(0, 125, 125);">Poster Session & Lightning Talks </h2> 
+<p>Please use this form to present a lightning talk and poster: <a href="https://forms.gle/B5u8L5VXt44RzPye7" target="_blank">(Google Form)</a>.</p>
 
  
 <hr>
