@@ -9,7 +9,7 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);">Morning Session: Sensors and Data - Algorithms and Applications. 9 - 11:30 AM.</h2> 
+<h2 style="color:rgb(0, 125, 125);">Morning Session: Sensors and Data - Algorithms and Applications. 9 - 11:45 AM.</h2> 
 
 <p> <a href="https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=111420" target="_blank"><b>Dr. Carolin E. Frueh</b></a>,
   Harold DeGroff Associate Professor of Aeronautics and Astronautics. Purdue University. <br>
