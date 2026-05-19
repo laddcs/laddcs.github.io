@@ -88,10 +88,15 @@
 
 
 <h2 style="color:rgb(0, 125, 125);">Poster Session and Closeout. 5:15 - 6 PM.</h2> 
-<p> Details coming soon. </p>
 
+<hr>
 
 <figure>
-  <img src="layout.png" alt="Workshop Layout" style="width:100%">
-  <figcaption>Workshop Timeline</figcaption>
+  <img src="ScheduleAM.png" alt="Workshop Morning Schedule" style="width:100%">
+  <figcaption> </figcaption>
+</figure>
+
+<figure>
+  <img src="SchedulePM.png" alt="Workshop Afternoon Schedule" style="width:100%">
+  <figcaption>Workshop Schedule</figcaption>
 </figure>
