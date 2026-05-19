@@ -1,4 +1,5 @@
-# ACC 2026 Workshop: Data Driven Methods for Space Resiliency
+# ACC 2026 Workshop: Data Driven Methods for Space Resiliency <br>
+<strong> Hilton New Orleans Riverside. Grand Salon 12 </strong> <br>
 
 <h2 style="color:rgb(0, 125, 125);">Abstract</h2>
 <p>This workshop will showcase the cutting edge of research and practice in data driven methods for the sustainable utilization of the space domain. Today, space is intricately woven into the fabric of our terrestrial existence. Assets in orbit support nearly every aspect of human life, be it agriculture, finance, communication, navigation, economic development, national security, or our many scientific endeavors. During the past decade, increased multinational and commercial activity, combined with weak governance has led to an inordinate rise in active and passive threats to the resiliency of space systems. The proposed workshop will showcase the cutting edge of research and practice in both predictive and forensic analytical capabilities that can convert data into certifiably accurate models for decision and control in orbit. Speakers will span the government, national labs, and academia, presenting challenges, opportunities, and solutions for this multifaceted domain. The following list provides broad areas of interest for technical content to be presented in the proposed workshop: </p>
@@ -37,11 +38,11 @@
 
 <ul>
   <li> 8:00 - 9:00. Keynote Address - Dr. Stacie Williams </li>
-  <li> 9:00 - 11:30. Session 1. Sensors and Data. Speakers: Frueh, Zanetti, Phillips, Hussein </li>
-  <li> 11:30 - 1:00. Lunch and Open Mic </li>
+  <li> 9:00 - 11:45. Morning Session. Sensors and Data. Speakers: Frueh, Zanetti, Phillips, Hussein </li>
+  <li> 11:45 - 1:00. Lunch and Open Mic </li>
   <li> 1:00 - 2:00. Technical Keynote - Dr. Diane Davis </li>
-  <li> 2:00 - 4:30. Session 2. Estimation and Control, ML/AI for Space. Speakers:  Woollands, Oguri, Maity, Nakka </li>
-  <li> 4:30 - 5:15. Panel: What's next for space resiliency? </li>
+  <li> 2:00 - 4:40. Afternoon Session. Estimation and Control, ML/AI for Space. Speakers:  Woollands, Oguri, Maity, Nakka </li>
+  <li> 4:45 - 5:15. Panel:  </li>
   <li> 5:15 - 6:00. Poster Session. </li>
 </ul>
 
