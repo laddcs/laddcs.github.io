@@ -42,7 +42,7 @@
   <li> 11:45 - 1:00. Lunch and Open Mic </li>
   <li> 1:00 - 2:00. Technical Keynote - Dr. Diane Davis </li>
   <li> 2:00 - 4:40. Afternoon Session. Estimation and Control, ML/AI for Space. Speakers:  Woollands, Oguri, Maity, Nakka </li>
-  <li> 4:45 - 5:15. Panel:  </li>
+  <li> 4:45 - 5:15. Panel: Future of Space - Analysis, Data, and Explainability. </li>
   <li> 5:15 - 6:00. Poster Session. </li>
 </ul>
 
