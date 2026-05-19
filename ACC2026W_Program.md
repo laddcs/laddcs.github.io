@@ -22,6 +22,8 @@
 <strong>Abstract:</strong> This presentation explores recent advances in orbital mechanics estimation under sparse and unreliable data conditions, with a focus on nonlinear filtering and data fusion techniques. We introduce enhancements to the Ensemble Gaussian Mixture Filter (EnGMF), a hybrid approach combining particle and Gaussian mixture representations, tailored for systems with strong nonlinear dynamics and nonlinear measurements. A novel deterministic sampling method based on Projected Cramér–von Mises Distance is presented, offering improved accuracy and computational efficiency in high-dimensional filtering problems. Additionally, we discuss kernel-based modifications to the EnGMF for orbit determination in low Earth orbit and Cislunar environments, incorporating bi-fidelity propagation and adaptive particle selection to maintain estimation consistency with limited observations. Finally, we examine the role of posterior-based weight updates in Gaussian mixture filters, demonstrating their superiority over traditional prior-based methods in both single- and multi-target tracking scenarios. These contributions collectively advance the state of the art in space object tracking and estimation under challenging sensing conditions.
 </p>
 
+<h2 style="color:rgb(0, 125, 125);"> Coffee Break. 10:05 - 10:30 AM </h2> 
+
 <p> <a href="https://www.linkedin.com/in/sean-a-phillips/" target="_blank"><b>Dr. Sean Phillips</b></a>, Technology Advisor at the Air Force Research Laboratory. <br> 
  <strong>Title:</strong> <span style="color: blue;"> Overcoming Data Sparsity in a Data Rich World </span> <br>
   <strong>Abstract:</strong> In a world completely subsumed by data, from the deployment of AI centers across the world to autonomous self-driving vehicles one can assume that proliferation of data is ubiquitous across all domains.  However, there are still pockets where data is sparse and hard to obtain. Space is such an example. To increase the resilience of satellite systems there are two directions the space enterprise is going: 1) the development of proliferated low earth orbit satellite constellations and 2) the deployment of autonomous (or lights out) satellite operations. Therefore, due to many reasons the data required to train a closed loop autonomous satellite system continues to be prohibitively expensive. This talk will discuss several challenges in the space domain with respect to data, recent results from the AFRL Space Control Branch and how the Local Intelligent Network of Collaborative Satellites Lab is overcoming this challenge through terrestrial testing of satellite autonomy. Approved for public release; distribution is unlimited. Public Affairs release approval #AFRL20261658. 
@@ -36,7 +38,7 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);">Lunch Break & Open Mic. 11:30 AM - 1 PM.</h2> 
+<h2 style="color:rgb(0, 125, 125);">Lunch Break & Open Mic. 11:45 AM - 1 PM.</h2> 
 
 <hr>
 
@@ -48,7 +50,7 @@
 
 <hr>
   
-<h2 style="color:rgb(0, 125, 125);">Afternoon Session: Estimation and Control, ML/AI for Space. 2 - 4:30 PM.</h2>
+<h2 style="color:rgb(0, 125, 125);">Afternoon Session: Estimation and Control, ML/AI for Space. 2 - 4:40 PM.</h2>
 
 
 <p> <a href="https://aerospace.illinois.edu/directory/profile/rmw" target="_blank"><b>Dr. Robyn Woollands</b></a>,
@@ -63,6 +65,8 @@
   <strong>Abstract:</strong> Modern autonomous systems---from very low Earth orbit (VLEO) satellites to multi-agent spacecraft---depend critically on timely, reliable, and high-quality information exchange. Yet, space environments inherently impose severe communication constraints, including limited bandwidth, latency, packet loss, and quantization, which degrade both learning and control performance. This talk will present a unified framework for communication-aware control and learning, aimed at ensuring resilient operation of autonomous space systems under such adverse conditions.
 </p>
 
+<h2 style="color:rgb(0, 125, 125);"> Coffee Break. 3:05 - 3:30 PM </h2> 
+
 <p> <a href="https://ae.gatech.edu/directory/person/yashwanth-kumar-nakka" target="_blank"><b>Dr. Yashwanth K. Nakka</b></a>,  Assistant Professor, Georgia Tech University. <br>
   <strong>Title:</strong> <span style="color: blue;"> Exploration, Resilience, and Fault Recovery in Autonomous Multi-Spacecraft Systems: An Information-Theoretic Stochastic Control Perspective. </span> <br>
   <strong>Abstract:</strong> Distributed spacecraft systems enable new capabilities in on-orbit inspection, distributed sensing, and cooperative exploration, but they introduce tightly coupled challenges in uncertainty-aware motion planning, information-driven sensing, and fault-tolerant operation. This talk presents a unified framework that integrates information-theoretic exploration for data collection, stochastic optimal control for safety under uncertainty, and fault detection, isolation, and recovery (FDIR) for resilient multi-spacecraft autonomy. We formulate sensing and motion planning as an information-cost stochastic nonlinear optimal control (Info-SNOC) problem, where spacecraft trajectories are optimized to maximize information gain while minimizing control effort and satisfying probabilistic safety constraints. The resulting chance-constrained stochastic optimal control problem is solved using generalized polynomial chaos (gPC) representations and sequential convex programming, enabling tractable trajectory generation for nonlinear stochastic dynamics with safety guarantees . We demonstrate that the proposed approach computes information-optimal inspection trajectories for multi-spacecraft formations, achieving improved target coverage while respecting fuel and safety constraints in coordinated inspection missions. In addition, we introduce an information-driven FDIR framework that detects and identifies actuator and sensor faults by monitoring deviations in global task metrics and probabilistic residuals between predicted and observed system behavior. Simulation studies show that the approach can reliably detect and classify multiple fault modes while maintaining mission objectives through adaptive reconfiguration. These results provide a principled architecture for resilient multi-spacecraft exploration (data - collection) under uncertainty and system degradation.
@@ -76,7 +80,7 @@
 
 <hr>
 
-<h2 style="color:rgb(0, 125, 125);">Panel Discussion. 4:30 - 5:15 PM.</h2> 
+<h2 style="color:rgb(0, 125, 125);">Panel Discussion. 4:45 - 5:15 PM.</h2> 
 <p> Details coming soon. </p>
 
 <hr>
