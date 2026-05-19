@@ -1,4 +1,5 @@
 # Detailed Program: ACC 2026 Workshop: Data Driven Methods for Space Resiliency
+<strong> Hilton New Orleans Riverside. Grand Salon 12 </strong> <br>
 
 <hr> 
 <h2 style="color:rgb(0, 125, 125);">Keynote Address. 8 - 9 AM.</h2> 
